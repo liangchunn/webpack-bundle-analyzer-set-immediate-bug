@@ -1,0 +1,11 @@
+{
+  "name": "webpack-bundle-analyzer-set-immediate-bug",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "clean-webpack-plugin": "^1.0.0",
+    "webpack": "^4.27.1",
+    "webpack-bundle-analyzer": "^3.0.3"
+  }
+}
